@@ -12,8 +12,8 @@ html{
     /*scroll-behavior: smooth;*/ /* Cuộn Trang Css */
 }
 
-html,body{
-    overflow-x: hidden; 
+body{
+    overflow-x:hidden;
 }
 
 
