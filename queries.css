@@ -1,8 +1,9 @@
-/* Big tablet to 1200px; */
-@media only screen and (max-width:1200px){
+/* Big tablet to 1350px; */
+@media only screen and (max-width:1350px){
     html{
         font-size: 16px;
     }
+
     .logo{
         width: 280px;
     }
@@ -11,12 +12,20 @@
         margin-top: 50px;
         margin-right: 15px;
     }
+
     .heading-main-row li{
         margin-right: 15px;
     }
+
     .heading-main-box{
-        transform: translate(-35%,-90%);
+        width: auto;
+        transform: translate(-70%,-80%);        
     }
+
+    h1{
+        font-size: 290%;
+    }
+
     form{
         margin-left: 30%;
     }
@@ -27,27 +36,35 @@
     .logo{
         width: 280px;
     }
+
     .heading-main-row{
         margin-top: 50px;
         margin-right: 15px;
     }
+
     .heading-main-row li{
         margin-right: 8px;
     }
+
     .heading-main-box{
-        transform: translate(-24%,-90%);
+        width: auto;
+        transform: translate(-40%,-100%);  
     }
+
     h1{
-        font-size: 270%;
+        font-size: 250%;
     }
+
     h4{
         font-size: 60%;
         font-weight: 800;
     }
+    
     cite img{
         margin-right: 50%;
         margin-bottom: 8px;
     }
+
     .infor{
         font-size: 14px;
     }
@@ -64,6 +81,7 @@
     }
 
     .heading-main-box{
+        width: auto;
         transform: translate(-20%,-90%);
     }
 
