@@ -136,7 +136,7 @@ h1{
 
 .sticky .heading-main-row{
     margin-top: 30px;
-    position: sticky;
+    position: fixed;
 }
 
 /*----------------*/
