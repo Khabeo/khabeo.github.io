@@ -132,11 +132,11 @@ h1{
 .sticky .logo{
     width: 250px;
     margin-top: -15px;
+    position: sticky;
 }
 
 .sticky .heading-main-row{
     margin-top: 30px;
-    position: fixed;
 }
 
 /*----------------*/
